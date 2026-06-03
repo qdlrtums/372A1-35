@@ -1,0 +1,8 @@
+started connection at 127.0.0.1 on port 51613
+alice has logged in
+alice saved testing.txt
+bob has logged in
+bob saved testing_bob.txt
+bob: i'm done!
+bob has quit.
+terminated session with 127.0.0.1 on port 51613

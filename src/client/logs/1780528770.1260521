@@ -1,0 +1,8 @@
+file users.txt
+LOG IN FIRST
+login bob
+OK
+file users.txt
+NO ACCESS FROM CLIENT
+quit
+BYE

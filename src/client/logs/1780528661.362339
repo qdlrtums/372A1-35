@@ -1,0 +1,12 @@
+login alice
+OK
+file testing.txt
+FILE TRANSFER OK
+login bob
+OK
+file testing_bob.txt
+FILE TRANSFER OK
+msg i'm done!
+OK
+quit
+BYE

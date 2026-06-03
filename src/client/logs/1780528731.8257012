@@ -1,0 +1,11 @@
+file testing_bob.txt
+LOG IN FIRST
+login hacker
+TRY AGAIN
+file testing_bob.txt
+LOG IN FIRST
+login bob
+OK
+file testing_bob.txt 12345
+unknown file location
+BYE

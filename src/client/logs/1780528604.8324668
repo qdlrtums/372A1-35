@@ -1,0 +1,12 @@
+login hacker
+TRY AGAIN
+login hacker hacker 
+TRY AGAIN
+login alice
+OK
+login hacker 
+TRY AGAIN
+msg hello!
+OK
+quit
+BYE
